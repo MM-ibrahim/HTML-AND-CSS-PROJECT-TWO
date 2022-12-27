@@ -784,7 +784,7 @@ video{
 .quote {
     padding-top: var(--padding);
     padding-bottom: var(--padding);
-    background-image: url(/images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     text-align: center;
     color: white;
@@ -1095,7 +1095,7 @@ text-decoration: none;
 .footer {
     padding-top: calc(var(--padding) / 2);
     padding-bottom: calc(var(--padding) / 2);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     color: white;
     position: relative;
